@@ -20,13 +20,9 @@ Group Budget Calculator: Calculate estimated trip expenses and cost per person w
 
 Wishlist: Save your favourite destinations for future trips using localStorage.
 
-User Authentication UI: Sign-up and sign-in forms with input validation.
+User  UI: Sign-up and sign-in forms with input validation.
 
 Festivals & Travel Advice: Explore festivals by month and find useful travel tips.
-
-Responsive Design: Navigate the application across different screen sizes.
-
-Contact Page: Submit feedback and queries through the contact form.
 
 🛠️ Technologies Used
 
