@@ -43,6 +43,7 @@ Maps: React Leaflet
 Weather API: Open-Meteo API
 
 Data Storage: JSON files and browser localStorage
+
 🎯 Project Objective
 
 The objective of RoamWise is to simplify travel planning by bringing destination exploration, weather information, nearby places, trip organization, and group expense calculation together in one user-friendly application.
